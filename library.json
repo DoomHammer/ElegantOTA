@@ -20,7 +20,12 @@
       "owner": "mathieucarbou",
       "name": "ESP Async WebServer",
       "version": "^2.10.4",
-      "platforms": ["espressif8266", "espressif32", "raspberrypi"]
+      "platforms": ["espressif8266", "espressif32"]
+    },
+    {
+      "name": "ESPAsyncWebServer",
+      "version": "https://github.com/doomhammer/ESPAsyncWebServer#more-rp2040-fixes",
+      "platforms": ["raspberrypi"]
     }
   ],
   "version": "3.1.2",
